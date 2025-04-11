@@ -13,3 +13,4 @@ Langkah langkah untuk menjalankan:
 5. jalankan perintah npx sequelize db:create
 6. jalankan perintah npx sequelize db:migrate
 7. jalankan perintah npm run dev
+8. Rest API sudah bisa di akses dengan route http://localhost:4024
